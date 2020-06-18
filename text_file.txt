@@ -1,1 +1,2 @@
-A line of text in my text file
+Line 1 in my text file
+Line 2 in my text file
